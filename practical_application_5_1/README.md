@@ -11,7 +11,8 @@ I explored these questions in this Jupyter notebook: (add link)
 ## Findings
 
 ### 1. Time of day
-I found that drivers who received a coupon at 2 PM or 6 PM were most likely to accept the coupon, and drivers who received it at 7 AM were least likely to accept. This can be seen in the graph below:
+I found that drivers who received a coupon at 2 PM or 6 PM were most likely to accept the coupon, and drivers who received it at 7 AM were least likely to accept. This can be seen in the graph below.
+
 ![coupon_acceptance_vs_time_of_day](https://github.com/user-attachments/assets/348fdc99-7b3a-428f-8944-10a7efd3670d)
 
 In particular, 86.6% of drivers accepted a takeout coupon at 2 PM, and 82.08% of drivers accepted it at 6 PM. This is much higher than the 66.12% of customers who accepted it at 7 AM.
