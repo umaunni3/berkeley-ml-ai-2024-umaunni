@@ -6,7 +6,7 @@ In this exercise, I wanted to explore what attributes differentiate customers wh
 2. Where the driver was originally planning to go (work, home, or nowhere in particular)
 3. Whether the restaurant was in the same or opposite direction from where the driver was originally planning to go
 
-I explored these questions in this Jupyter notebook: (add link)
+I explored these questions in this Jupyter notebook: https://github.com/umaunni3/berkeley-ml-ai-2024-umaunni/blob/main/practical_application_5_1/practical_application_5_1.ipynb
 
 ## Findings
 
