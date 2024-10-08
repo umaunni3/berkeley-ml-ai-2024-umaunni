@@ -24,10 +24,11 @@ This is my capstone project for the Berkeley ML/AI professional certificate cour
 
 # Results
 
-I trained the following models on my dataset: Linear Regression, Ridge Regression, Lasso, Decision Tree Regression, and a neural network (built with Keras). Below is a summary of each model's test and training performance, as well as the best parameters I found for the model (if applicable).
+I trained the following models on my dataset: Linear Regression, Ridge Regression, Lasso, Decision Tree Regression, and a neural network (built with Keras). Below is a summary of each model's test and training performance, as well as the best parameters I found for the model (if applicable). The first row of the table contains the baseline MAE, as a reference point. (More info on the baseline computation can be found in the analysis notebook.)
 
 |   | Train MAE   | Test MAE  | Best Parameters  |
 |---|---|---|---|
+| Baseline | N/A | 0.54956 | N/A |
 | Lasso  | 0.53209 | 0.57472  | alpha=0.1  |
 | Linear Regression  | 0.44305  | 0.49230  | N/A  |
 | Ridge Regression  | 0.44708  | 0.49071  |  alpha=4.0 |
