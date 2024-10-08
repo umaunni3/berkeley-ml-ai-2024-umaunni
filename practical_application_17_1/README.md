@@ -9,7 +9,7 @@ The table below contains the results from the 4 different model types I evaluate
 | Logistic Regression  | 0.90042  | 0.90078  | C=5.0  |
 | KNN  | 0.90236  | 0.89747  | leaf_size=10, n_neighbors=20  |
 | Decision Tree  | 0.90919  | 0.89860  | max_depth=10, min_samples_leaf=15, min_samples_split=15  |
-| SVM  | 0.89782  | 0.89682  |   |
+| SVM  | 0.89782  | 0.89682  |  C=1.0, degree=2 |
 
 Based on this, I believe that on the margin, logistic regression is the best choice for classifying the data. It's able to classify customers with 90% accuracy, which is an improvement over the baseline of 88% (which was established by predicting on call duration--a highly predictive feature that would not be practically usable in our business case).
 
