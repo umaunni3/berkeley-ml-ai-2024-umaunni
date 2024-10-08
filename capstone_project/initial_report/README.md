@@ -14,7 +14,7 @@ This is my capstone project for the Berkeley ML/AI professional certificate cour
 
 
 
-**Expected results:** Identifying key factors that drive video game commercial success, and possibly variations in these factors when looking at different markets  (US, JP, etc). Development of a model to predict global sales performance (in $USD) for a new game based on key attributes such as genre, developer, platform, etc. 
+**Expected results:** Identification of key factors that drive video game commercial success. Development of a model to predict global sales performance (in $USD) for a new game based on key attributes such as genre, developer, platform, etc. 
 
  
 
